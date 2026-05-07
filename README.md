@@ -1,4 +1,4 @@
-Hotel-Hospitality-Domain-Revenue-Analysis
+*Hotel_Hospitality_Domain_Revenue_Analysis*
 
 🔍 Delighted to share my Power BI Project. The Project belongs to Hospitality Domain and deals with the challenges faced by Atliq Hotel Chains which is a Dominant player in Hotel Hospitality Domain and how they can be solved by undertaking data driven decisions. 
 I would like to thank codebasics team for providing Raw Data and resources for the same.
@@ -57,7 +57,7 @@ I would like to thank codebasics team for providing Raw Data and resources for t
 
 🌐 Microsoft Excel Power Pivot for data verification purpose.
 
-Total 5 CSV files Data has been imported into our Project:-
+*Total 5 CSV files Data has been imported into our Project*:-
 
 dim_date
 dim_hotels
@@ -65,26 +65,26 @@ dim_rooms
 fact_aggregated_bookings
 fact_bookings
 
-Column Description for dim_date:
+*Column Description for dim_date*:
 
 date: This column represents the dates present in May, June and July.
 mmm yy: This column represents the date in the format of mmm yy (monthname year).
 week no: This column represents the unique week number for that particular date.
 day_type: This column represents whether the given day is Weekend or Weekeday.
 
-Column Description for dim_hotels:
+*Column Description for dim_hotels*:
 
 property_id: This column represents the Unique ID for each of the hotels.
 property_name: This column represents the name of each hotel.
 category: This column determines which class[Luxury, Business] a particular hotel/property belongs to.
 city: This column represents where the particular hotel/property resides in.
 
-Column Description for dim_rooms:
+*Column Description for dim_rooms*:
 
 room_id: This column represents the type of room[RT1, RT2, RT3, RT4] in a hotel.
 room_class: This column represents to which class[Standard, Elite, Premium, Presidential] particular room type belongs.
 
-Column Description for fact_aggregated_bookings:
+*Column Description for fact_aggregated_bookings*:
 
 property_id: This column represents the Unique ID for each of the hotels.
 check_in_date: This column represents all the check_in_dates of the customers.
@@ -92,7 +92,7 @@ room_category: This column represents the type of room[RT1, RT2, RT3, RT4] in a 
 successful_bookings: This column represents all the successful room bookings that happen for a particular room type in that hotel on that particular date.
 capacity: This column represents the maximum count of rooms available for a particular room type in that hotel on that particular date.
 
-Column Description for fact_bookings:
+*Column Description for fact_bookings*:
 
 booking_id: This column represents the Unique Booking ID for each customer when they booked their rooms.
 property_id: This column represents the Unique ID for each of the hotels
