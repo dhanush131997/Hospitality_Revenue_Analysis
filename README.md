@@ -1,4 +1,4 @@
-*Hotel_Hospitality_Domain_Revenue_Analysis*
+Hotel_Hospitality_Domain_Revenue_Analysis
 
 🔍 Delighted to share my Power BI Project. The Project belongs to Hospitality Domain and deals with the challenges faced by Atliq Hotel Chains which is a Dominant player in Hotel Hospitality Domain and how they can be solved by undertaking data driven decisions. 
 I would like to thank codebasics team for providing Raw Data and resources for the same.
